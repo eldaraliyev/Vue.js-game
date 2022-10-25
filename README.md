@@ -1,6 +1,6 @@
 ## Hello! Welcome to my GitHub profile! 👋
 
-I'm Eldar, and I'd want to introduce myself to you. I'm currently working Front End Developer and developing my skills in this area. 
+I'm Eldar, and I'd want to introduce myself to you. I'm a Front-End Developer with less than 1 year of experience, motivated and interested to develop my skills and knowledge in this area and to contribute to the development of any project in which I would take part.
 
 💻 Technical Stack I use: 
 
