@@ -19,7 +19,7 @@ I'm Eldar, and I'd want to introduce myself to you. I'm a Front-End Developer wi
     <img src="https://user-images.githubusercontent.com/52912727/197863341-33e2f995-4e32-40ef-b92d-a8c36730fd90.svg" height="30"></img>
     <img src="https://user-images.githubusercontent.com/52912727/197863352-45d68474-c44b-40bd-b842-ae6a746046c2.svg" height="30"></img>
 </div>
-  
+</br>
 📫 Contact Me:
 <ul>
   <li><a href="mailto:eldar.alv@gmail.com">eldar.alv@gmail.com</a></li>
