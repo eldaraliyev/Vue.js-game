@@ -2,7 +2,7 @@
 
 I'm Eldar, and I'd want to introduce myself to you. I'm a Front-End Developer with less than 1 year of experience, motivated and interested to develop my skills and knowledge in this area and to contribute to the development of any project in which I would take part.
 
-💻 Technical Stack I use: 
+💻 My tech stack: 
 
 <div style="display: inline-block">
     <img src="https://user-images.githubusercontent.com/52912727/197861751-12688229-430b-43a5-ba53-be5ae39c7294.svg" height="30"></img>
