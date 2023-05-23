@@ -1,6 +1,10 @@
 ## Hello! Welcome to my GitHub profile! 👋
 
-I'm Eldar, and I'd want to introduce myself to you. I'm a Front-End Developer with less than 1 year of experience, motivated and interested to develop my skills and knowledge in this area and to contribute to the development of any project in which I would take part.
+I'm an experienced developer with over 1 year of expertise in Vue.js and Nuxt.js. I have a strong passion for web development and enjoy creating scalable applications using these frameworks.
+
+With a solid foundation in front-end development, I specialize in building interactive and dynamic user interfaces. I have worked on various projects, utilizing the Vue.js ecosystem to deliver efficient solutions. My skills include component-based architecture, state management with Vuex or Pinia, and routing with Vue Router. Familiar with SSR on Nuxt.
+
+If you're seeking a dedicated and experienced Vue.js and Nuxt.js developer to bring your ideas to life, I would be thrilled to join your team. Let's connect and create exceptional web experiences together.
 
 Tech Stack: 
 
