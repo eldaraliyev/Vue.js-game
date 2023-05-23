@@ -1,12 +1,11 @@
-## Hello! Welcome to my GitHub profile! 👋
+# About Me
+### Welcome to my GitHub profile
 
 I'm an experienced developer with over 1 year of expertise in Vue.js and Nuxt.js. I have a strong passion for web development and enjoy creating scalable applications using these frameworks.
 
 With a solid foundation in front-end development, I specialize in building interactive and dynamic user interfaces. I have worked on various projects, utilizing the Vue.js ecosystem to deliver efficient solutions. My skills include component-based architecture, state management with Vuex or Pinia, and routing with Vue Router. Familiar with SSR on Nuxt.
 
-If you're seeking a dedicated and experienced Vue.js and Nuxt.js developer to bring your ideas to life, I would be thrilled to join your team. Let's connect and create exceptional web experiences together.
-
-Tech Stack: 
+### Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-html-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-000?style=for-the-badge&logo=css3)
@@ -28,13 +27,15 @@ Tech Stack:
 
 ![GIT](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 ![FIGMA](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
-
+![POSTMAN](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman)
 </br>
-Contact Me:
+
+### Contact Me:
 
 <ul>
   <li><a href="mailto:eldar.alv@gmail.com">eldar.alv@gmail.com</a></li>
   <li>https://www.linkedin.com/in/eldaralyv/</li>
 </ul>
 
-It's all about me. Sincerely thank you for visiting my profile.
+If you're seeking a dedicated and experienced Vue.js and Nuxt.js developer to bring your ideas to life, I would be thrilled to join your team. Let's connect and create exceptional web experiences together.
+
